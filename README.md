@@ -1,0 +1,1 @@
+This is my Midterm app running a spring boot application with a rest service and consuming the service through a website. For some reason, I cannot get my welcome message to display across my page. My spring boot app is running fine, and setting up the template went fine, however someting is wrong in my call and I cant figure it out.
